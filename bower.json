@@ -1,7 +1,7 @@
 {
-    "name": "jquery-confirm",
+    "name": "way2web-jquery-confirm",
     "authors": [
-        "Matthieu Napoli http://mnapoli.fr"
+        "Way2web https://www.way2web.nl/"
     ],
     "description": "Confirm dialogs for buttons and links using jQuery and Bootstrap",
     "main": "jquery.confirm.js",
