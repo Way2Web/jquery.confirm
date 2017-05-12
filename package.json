@@ -1,6 +1,6 @@
 {
     "name": "way2web.jquery.confirm",
-    "version": "1.0.0",
+    "version": "2.7.1",
     "description": "Confirm dialogs for buttons and links using jQuery and Bootstrap",
     "main": "jquery.confirm.js",
     "scripts": {
